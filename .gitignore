@@ -1,0 +1,13 @@
+output/
+
+__pycache__/
+
+.vs/
+
+t2s.pyproj
+
+t2s.sln
+
+versionfile-maker.py
+
+voicestores.txt
